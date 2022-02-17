@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">FragmentExample2</string>
+    <string name="title_name">The First Step : Chapter One</string>
+    <string name="article_text">The First Step: Treasure Effect is the debut studio album by South Korean boy band Treasure. It was released on January 11, 2021, through YG Entertainment and distributed through YG Plus. The album was released for pre-order on December 29, 2020. A music video for the album\'s \"My Treasure\" was released alongside the album. The album contains 12 tracks, including the lead single \"My Treasure\". The physical album comes in three versions: Blue, Green and Orange. The album is primarily a K-pop record that combines hip hop, dance, dance-pop, pop, rap and ballad elements. The First Step: Treasure Effect is the fourth and final installment of the The First Step series, following the group\'s single albums The First Step: Chapter One, The First Step: Chapter Two and The First Step: Chapter Three, all released in 2020.</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="question_article">LIKE THE ARTICLE?</string>
+    <string name="yes_message">ARTICLE: Like</string>
+    <string name="no_message">ARTICLE: Thanks</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="open">OPEN</string>
+    <string name="close">CLOSE</string>
+</resources>
